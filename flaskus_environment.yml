@@ -1,0 +1,5 @@
+name: flaskus
+channels:
+- defaults
+prefix: /home/hannesj/anaconda3/envs/flaskus
+
